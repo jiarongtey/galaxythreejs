@@ -1,16 +1,3 @@
-# Three.js Journey
-
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
-
-``` bash
-# Install dependencies (only the first time)
-npm install
-
-# Run the local server at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
+Demo: https://serene-montalcini-528259.netlify.app/
+Galaxy 
+![image](https://user-images.githubusercontent.com/20253418/150126426-d1f54081-dd13-4de9-9d8a-c0db836af466.png)
